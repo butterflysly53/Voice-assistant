@@ -1,17 +1,23 @@
 # Voice-assistant
-This is an Ai voice assistant.
+This is an Ai voice assistant. It recognizes speech and can perform the following tasks.
 
-It can --->
+### What It can do --->
+---
+- ⏲️ tell current time & date 
 
-- tell current time & date ,send email, take screenshot
+- 📧 send email 
 
-- tell user's battery and cpu usage search in chrome and wikipedia
+- 📷 take screenshot
 
-- shut down,log out and restart user's machine
+- 🔋 tell user's battery and cpu usage 
 
-- take notes and give reminder 
+- :mag: search in chrome and wikipedia
 
-- when user is bored it can tell them geeky jokes
+- 💻 shut down,log out and restart user's machine
 
- You can turn it off by saying "go offline"
+- 📔 take notes and give reminder 
+
+- 😃 when user is bored it can tell them geeky jokes
+
+  :sleeping:  You can turn it off by saying "go offline"
 
