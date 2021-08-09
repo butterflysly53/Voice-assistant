@@ -1,8 +1,8 @@
 # Voice-assistant
 This is an Ai voice assistant. It recognizes speech and can perform the following tasks.
 
-### What It can do --->
----
+## What It can do --->
+
 - ⏲️ tell current time & date 
 
 - 📧 send email 
