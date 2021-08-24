@@ -19,5 +19,5 @@ This is an Ai voice assistant. It recognizes speech and can perform the followin
 
 - 😃 when user is bored it can tell them geeky jokes
 
-  :sleeping:  You can turn it off by saying "go offline"
+- :sleeping:  You can turn it off by saying "go offline"
 
